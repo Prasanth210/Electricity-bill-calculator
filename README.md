@@ -1,7 +1,3 @@
-This Java application calculates the electricity bill for a customer based on their meter readings. The program takes the previous month's meter reading, the current month's meter reading, and the date of the last reading as inputs. It then calculates the units of electricity consumed and the corresponding bill amount based on predefined rates.
-
-Features:
-
 Input Customer Details: Prompts the user to enter the customer name and previous month's meter reading.
 
 Menu Options:
